@@ -1,0 +1,25 @@
+{
+  "name": "test_task_express",
+  "version": "1.0.0",
+  "description": "Тестовое задание по express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arechesk/test_task_express.js.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Aleksandr Kulikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arechesk/test_task_express.js/issues"
+  },
+  "homepage": "https://github.com/arechesk/test_task_express.js#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
