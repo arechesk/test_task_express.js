@@ -16,3 +16,8 @@
 - / - главная страница
 - /about - страница about
 
+### Запуск с помощью docker
+
+1. Соберите образ `docker build -t test_task .`
+2. Запустите контейнер `docker run --rm -p 3000:3000 test_task`
+
